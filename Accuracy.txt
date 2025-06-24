@@ -1,0 +1,7 @@
+model:-  Deep learning
+
+  accuracy: 0.9574
+
+model2:- Random Forest
+
+  accuracy: 0.8088
